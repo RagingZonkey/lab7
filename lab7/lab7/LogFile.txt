@@ -1,0 +1,6 @@
+26.11.2020 15:56:07, INFO: Test log message.
+26.11.2020 16:48:40, INFO: Test log message.
+01.12.2020 16:24:10, INFO: Test log message.
+01.12.2020 23:30:01, INFO: Test log message.
+02.12.2020 13:46:23, INFO: Test log message.
+02.12.2020 13:46:49, INFO: Test log message.
